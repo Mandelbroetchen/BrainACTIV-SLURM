@@ -1,0 +1,8 @@
+{
+  "roi": "EBA",
+  "maximize": true,
+  "alpha": 0.7,
+  "gamma": 0.6,
+  "seed": 42,
+  "resolution": [512, 512]
+}
